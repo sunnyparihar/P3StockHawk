@@ -1,3 +1,4 @@
-# P3StockHawk
+# stockHawk
+Udactiy Project P3 - Stock Hawk App
 
-Stock Hawk is the fourth project in Udacity's Android Developer Nanodegree. The purpose of this project was to diagnose problems and practice improving apps.
+- Fullfilled all Rubrics Guidelines and criteria - check out the screencast - <a href="https://www.youtube.com/watch?v=Qg9kUHJ9e6s">Youtube Screencast Video </a>
